@@ -8,6 +8,7 @@ README: simple inventory control
 @License: MIT 
 
 ** (Please note that this sample app does not reflect official coding standards of Zebra -- merely a test project that i have made.)
+
 ** Barcodes and other resources used for the app can be found in the 'extras' folder
 
 The app demonstrates a simple inventory control.
