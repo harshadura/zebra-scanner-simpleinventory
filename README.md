@@ -5,6 +5,8 @@ README: simple inventory control
 
 @dependency: Zebra Scanner SDK for Android v2.1.4.0
 
+@License: MIT 
+
 ** (Please note that this sample app does not reflect official coding standards of Zebra -- merely a test project that i have made.)
 
 The app demonstrates a simple inventory control.
